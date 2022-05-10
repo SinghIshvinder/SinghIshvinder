@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Ishvinder Singh</h1>
 <h3 align="center">A Passionate Backend Developer 🥷</h3>
 
-- 👨‍💻 I’m currently learning **Backend Development**
+- 👨‍💻 I’m currently learning **Backend Development And Writing Node Apps**
 
 - 💬 Ask me about **NodeJs/Express, Javascript and web3**
 
