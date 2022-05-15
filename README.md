@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **NodeJs/Express, Javascript and web3**
 
-- 📫 How to reach me **itslit9@protonmail.com**
+- 📫 How to reach me **ishvinders99@gmail.com**
 
 - ⚡ Exploring **web3 and Blockchain on side.**
 
